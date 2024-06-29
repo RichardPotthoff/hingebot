@@ -7,8 +7,12 @@ Click here to run "hingebot.ipynb" in Google Colab: [![Open In Colab](https://co
 Click here to run "hingebot.ipynb" in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RichardPotthoff/hingebot/main?labpath=hingebot.ipynb)
 ### Tripod Design
 ![Tripod Design](https://github.com/RichardPotthoff/hingebot/blob/main/tripod_design.jpg?raw=true)
+
+![Tripod Design](https://github.com/RichardPotthoff/hingebot/blob/main/tripod_preview.png?raw=true)
 ### Capstan Design
 ![Capstan Design](https://github.com/RichardPotthoff/hingebot/blob/main/capstan_design.jpeg?raw=true)
+
+![Capstan Design](https://github.com/RichardPotthoff/hingebot/blob/main/capstan_preview.png?raw=true)
 # Photos
 ## Assembled Hingbot 
 ![Assembled Hingebot](https://github.com/RichardPotthoff/hingebot/blob/main/hingebot_assembled.jpeg?raw=true)
