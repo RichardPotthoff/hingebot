@@ -14,7 +14,7 @@ Click here to run "hingebot.ipynb" in Binder: [![Binder](https://mybinder.org/ba
 
 ![Capstan Design](https://github.com/RichardPotthoff/hingebot/blob/main/capstan_preview.png?raw=true)
 # Photos
-## Assembled Hingbot 
+## Assembled Hingebot 
 ![Assembled Hingebot](https://github.com/RichardPotthoff/hingebot/blob/main/hingebot_assembled.jpeg?raw=true)
 ## Detail: Continuous Cable Capstan
 ![Continuous Cable Capstan](https://github.com/RichardPotthoff/hingebot/blob/main/capstan_single_cable.jpeg?raw=true)
