@@ -1,30 +1,33 @@
 # Hingebot
 ## Animation
-<img width="47%" src="hingebot_1.gif"/>
-![Hingebot animation](https://github.com/RichardPotthoff/hingebot/blob/main/hingebot_1.gif?raw=true)
+<img src="hingebot_1.gif"/>
+
 ## Parametric Design Program
 Click here to run "hingebot.ipynb" in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RichardPotthoff/hingebot/blob/main/hingebot.ipynb#scrollTo=Design_Form)
 
 Click here to run "hingebot.ipynb" in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RichardPotthoff/hingebot/main?labpath=hingebot.ipynb)
 ### Tripod Design
-![Tripod Design](https://github.com/RichardPotthoff/hingebot/blob/main/tripod_design.jpg?raw=true)
+<img src="tripod_design.jpg"/>
 
-![Tripod Design](https://github.com/RichardPotthoff/hingebot/blob/main/tripod_preview.png?raw=true)
+<img src="tripod_preview.png"/>
+
 ### Capstan Design
-![Capstan Design](https://github.com/RichardPotthoff/hingebot/blob/main/capstan_design.jpeg?raw=true)
+<img src="capstan_design.jpeg"/>
 
-![Capstan Design](https://github.com/RichardPotthoff/hingebot/blob/main/capstan_preview.png?raw=true)
+<img src="capstan_preview.png"/>
+
 # Photos
 ## Assembled Hingebot 
-![Assembled Hingebot](https://github.com/RichardPotthoff/hingebot/blob/main/hingebot_assembled.jpeg?raw=true)
+<img src="hingebot_assembled.jpeg"/>
+
 ## Detail: Continuous Cable Capstan
-![Continuous Cable Capstan](https://github.com/RichardPotthoff/hingebot/blob/main/capstan_single_cable.jpeg?raw=true)
+<img src="capstan_single_cable.jpeg"/>
+
 ## Detail: Split Cable Capstan
-![Split Cable Capstan](https://github.com/RichardPotthoff/hingebot/blob/main/capstan_split_cable.jpeg?raw=true)
+<img src="capstan_split_cable.jpeg"/>
 
 # Configuration / Calibration
-
-![Split Cable Capstan](https://github.com/RichardPotthoff/hingebot/blob/main/hingebot_calibration.jpeg?raw=true)
+<img src="hingebot_calibration.jpeg"/>
 
 ## Mechanical preparation
 * The cables must be parallel to the axes of the coordinate system with the toolhead at the origin of the coordinate system.
